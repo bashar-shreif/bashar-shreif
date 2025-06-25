@@ -62,5 +62,7 @@ Email: bashar.a.shreif@gmail.com
 LinkedIn: @bashar-shreif
 ```
 ---
-
-> "Code like Zoro swings his swords – blindfolded, but with killer instinct." 🗡️            
+<div>
+>"If you don't take risks, then you can't create a future." <br>
+  Monkey D. Luffy <img src="https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-straw-hat-cartoon-illustration-png-image_6562738.png" alt="Monkey D. Luffy" width="2%">
+</div>

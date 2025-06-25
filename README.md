@@ -4,20 +4,20 @@
 </p>
 
 ### 🧠 About Me
-<div align="center">
-<img src="" alt="image" width="15%" align="left" />
-</div>
+<img src="https://github.com/bashar-shreif/bashar-shreif/blob/main/assets/nyx.png" alt="image" width="20%" align="right" />
 
-```bash
+<div>
+
+```
 > whoami
-I'm a caffeine-fueled CS student, full-stack web dev, and dual-booter (but Arch is main :>).
+I'm a caffeine-fueled CS student, full-stack web dev, and dual-booter, but Arch is main :>
 
 When I'm not writing code, I'm leveling up IRL:
 - Gaming (I click heads)
 - Diving into psychology, philosophy, and deep convos
 - Practicing peace + learning languages
-
 ```
+</div>
 
 ---
 

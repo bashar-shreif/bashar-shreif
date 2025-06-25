@@ -10,7 +10,7 @@
 
 ```
 > whoami
-I'm a caffeine-fueled CS student, full-stack web dev, and dual-booter, but Arch is main :>
+I'm a caffeine-fueled CS student, full-stack web dev, and dual-booter :>
 
 When I'm not writing code, I'm leveling up IRL:
 - Gaming (I click heads)

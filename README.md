@@ -39,7 +39,9 @@ Currently:     Learning React, Flutter, 3D Web Dev
 ### Stats
 
 <a href="http://www.github.com/bashar-shreif"><img src="https://github-readme-stats.vercel.app/api?username=bashar-shreif&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="bashar-shreif's GitHub stats" /></a>             <a href="https://github.com/bashar-shreif" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar-shreif&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ![Pac-Man Contribution Graph (Dark)](https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph-dark.svg)
+
 ### 🔥 Projects & Goals
 
 ```bash

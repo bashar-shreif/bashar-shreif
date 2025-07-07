@@ -36,12 +36,6 @@ Currently:     Learning React, Flutter, 3D Web Dev
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph.svg">
-</picture>
-
 ### 🔥 Projects & Goals
 
 ```bash
@@ -67,6 +61,13 @@ Discord: @d_astro
 Email: bashar.a.shreif@gmail.com
 LinkedIn: @bashar-shreif
 ```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bashar-shreif/bashar-shreif/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 <div>
 >"If you don't take risks, then you can't create a future." <br>

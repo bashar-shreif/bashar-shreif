@@ -25,13 +25,13 @@ When I'm not writing code, I'm leveling up IRL:
 
 ### ⚙️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,php,html,css,laravel,mysql,git,linux,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=js,php,react,nest,nodejs,laravel,mysql,git,linux,vscode,figma)
 
 ```bash
-Languages:     JavaScript, PHP, SQL, HTML/CSS, Python  
-Frameworks & Libraries:    Laravel, React, Nest, 
-Tools:         Git & GitHub, VS Code, Figma, Arch Linux (btw)  
-Currently:     Learning Flutter, 3D Web Dev 
+Languages:                 JavaScript, Python, PHP, Java, SQL, C++  
+Frameworks & Libraries:    Laravel, React, Nest
+Tools:                     Git & GitHub, VS Code, Figma, Arch Linux (btw)  
+Currently:                 Learning Flutter, 3D Web Dev 
 ```
 
 ---
@@ -41,16 +41,8 @@ Currently:     Learning Flutter, 3D Web Dev
 ```bash
 🧠 Capstone: Teacher Assistant Mobile App (Flutter)
 🐞 CodeWave: AI powered VS code extension for project management and code visualization
-🎯 Goal: Become a 🔥 full-stack software engineer!
+🎯 Goal: Becoming 🔥 full-stack software engineer!
 ```
-
----
-
-### 🎮 Fun Facts
-
-- 🍿 Fav Anime: **One Piece**  
-- 🍜 I believe anime + food + clean code = peak life.
-- 🤓 Reading: Psychology books, philosophy, and plot-heavy high fantasy novels  
 
 ---
 

@@ -29,9 +29,9 @@ When I'm not writing code, I'm leveling up IRL:
 
 ```bash
 Languages:     JavaScript, PHP, SQL, HTML/CSS, Python  
-Frameworks:    Laravel
+Frameworks & Libraries:    Laravel, React, Nest, 
 Tools:         Git & GitHub, VS Code, Figma, Arch Linux (btw)  
-Currently:     Learning React, Flutter, 3D Web Dev 
+Currently:     Learning Flutter, 3D Web Dev 
 ```
 
 ---
@@ -40,7 +40,7 @@ Currently:     Learning React, Flutter, 3D Web Dev
 
 ```bash
 🧠 Capstone: Teacher Assistant Mobile App (Flutter)
-🐞 CWave: VS code extension for debugging and code visualization
+🐞 CodeWave: AI powered VS code extension for project management and code visualization
 🎯 Goal: Become a 🔥 full-stack software engineer!
 ```
 

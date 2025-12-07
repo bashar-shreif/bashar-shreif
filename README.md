@@ -49,7 +49,7 @@ Currently:                 Learning Flutter, 3D Web Dev
 ### 📬 Let’s Link Up
 
 ```bash
-Discord: @d_astro
+Discord: @rubracalavera
 Email: bashar.a.shreif@gmail.com
 LinkedIn: @bashar-shreif
 ```

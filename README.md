@@ -1,6 +1,6 @@
 <h1 align="center">Yo, I'm Bashar ☕</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student%7CWeb+Dev%7CLinux+Enthusiast;&center=true&width=440&height=45&color=00FFD1&vCenter=true&pause=1000&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+%7C+Linux+Enthusiast;&center=true&width=440&height=45&color=00FFD1&vCenter=true&pause=1000&size=20" />
 </p>
 
 ### 🧠 About Me
